@@ -218,11 +218,11 @@ public class VideoStore<T extends Comparable<T>> {
 		int exit = 0;	
 
 		do {
-			System.out.println("\t\t\t*****" + "Welcome to Terry's Video Store" + "*****");
+			System.out.println("\t\t\t*****" + "Welcome to Video Store" + "*****");
 			System.out.println("\t\t\t  ****" + "The store for all movies" + "****");
 			System.out.println("\t\t\t\t***" + "Open 24/7 " + "***");
-			System.out.println("\t\t**" + "2025 SW Primrose Bentonville, Arkansas, 72712. " + "**");
-			System.out.println("\t\t\t*" + "Contact us 24/7 on 479 306-0159" + "*");
+			System.out.println("\t\t**" + "2025 SW Primrose Bentonville, Arkansas, 72719. " + "**");
+			System.out.println("\t\t\t*" + "Contact us 24/7 on 479 528-6987" + "*");
 			System.out.println(
 					"Main Menu\n1.To add a video\n2.To delete a video\n3.To add a customer\n4.To delete a customer\n5.To check if a particular video is in store"
 							+ "\n6.To check out a video\n7.To check in a video\n8.To print all customers\n9.To print all videos\n10.To print in store videos\n11.To print all rent videos\n"
