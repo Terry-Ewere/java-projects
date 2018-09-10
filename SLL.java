@@ -1,6 +1,6 @@
 /**
  * Singly LinkedList data structure implementation
- * @author Osahon Terry Ewere
+ * @author
  *
  * @param <K> is the K type
  * @param <V> is the V type
