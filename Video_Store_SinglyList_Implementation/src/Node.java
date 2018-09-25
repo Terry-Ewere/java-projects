@@ -1,6 +1,6 @@
 /**
  * Program to implement the Node class
- * @author Osahon Terry Ewere
+ * @author
  *
  * @param <K> is the K Type
  * @param <V> is the V Type
