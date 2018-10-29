@@ -1,6 +1,6 @@
 /**
  * Program to implement Doubly LinkedList Data Structure
- * @author Osahon Terry Ewere
+ * @author 
  *
  * @param <K> is the K Type
  * @param <V> is the V Tyoe
