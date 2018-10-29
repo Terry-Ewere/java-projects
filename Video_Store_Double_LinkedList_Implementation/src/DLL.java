@@ -1,7 +1,7 @@
 /**
  * Program to implement Doubly LinkedLIst data structure
- * @author Osahon Terry Ewere
- * @version 2018.05.15
+ * @author 
+ * @version 
  * @param <K> K Type
  * @param <V> V Type
  */
